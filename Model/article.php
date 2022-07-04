@@ -1,5 +1,5 @@
 <?php
-require_once('../domaine/article.php');
+require('class_article.php');
 require_once('connexion.php');
 
 getArticles();

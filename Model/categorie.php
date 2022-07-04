@@ -1,5 +1,5 @@
 <?php
-require_once('../domaine/categorie.php');
+require_once('class_categorie.php');
 require_once('connexion.php');
 
 function getCategories(){
